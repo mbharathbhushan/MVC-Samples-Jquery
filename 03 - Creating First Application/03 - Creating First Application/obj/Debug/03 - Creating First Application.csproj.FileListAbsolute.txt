@@ -1,0 +1,80 @@
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\03 - Creating First Application.dll.config
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\03 - Creating First Application.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\03 - Creating First Application.pdb
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csc.exe
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csc.exe.config
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csc.rsp
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csi.exe
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csi.exe.config
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\csi.rsp
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.AppContext.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Console.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.IO.Compression.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.IO.Pipes.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.AccessControl.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Claims.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.ValueTuple.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Xml.XPath.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\vbc.exe
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\vbc.exe.config
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\vbc.rsp
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\VBCSCompiler.exe
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Antlr3.Runtime.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Newtonsoft.Json.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Helpers.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Mvc.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Optimization.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Razor.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.Deployment.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.Razor.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\WebGrease.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Helpers.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Mvc.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Optimization.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.Razor.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.Deployment.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Web.WebPages.Razor.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Newtonsoft.Json.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Antlr3.Runtime.pdb
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\obj\Debug\03 - Creating First Application.csproj.CoreCompileInputs.cache
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\obj\Debug\03 - Creating First Application.csproj.CopyComplete
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\obj\Debug\03 - Creating First Application.dll
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\obj\Debug\03 - Creating First Application.pdb
+D:\MVC-Samples-Jquery\03 - Creating First Application\03 - Creating First Application\obj\Debug\03 - Creating First Application.csprojAssemblyReference.cache
