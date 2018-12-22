@@ -1,0 +1,84 @@
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\08 - DataAccessInMVCUsingEntityFramework.dll.config
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\08 - DataAccessInMVCUsingEntityFramework.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\08 - DataAccessInMVCUsingEntityFramework.pdb
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csc.exe
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csc.exe.config
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csc.rsp
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csi.exe
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csi.exe.config
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\csi.rsp
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.AppContext.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Console.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.IO.Compression.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.IO.Pipes.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.AccessControl.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Claims.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.ValueTuple.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Xml.XPath.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\vbc.exe
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\vbc.exe.config
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\vbc.rsp
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\VBCSCompiler.exe
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Antlr3.Runtime.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\EntityFramework.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\EntityFramework.SqlServer.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Newtonsoft.Json.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Helpers.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Mvc.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Optimization.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Razor.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.Deployment.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.Razor.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\WebGrease.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\EntityFramework.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\EntityFramework.SqlServer.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Helpers.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Mvc.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Optimization.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.Razor.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.Deployment.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Web.WebPages.Razor.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Newtonsoft.Json.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Antlr3.Runtime.pdb
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\obj\Debug\08 - DataAccessInMVCUsingEntityFramework.csprojAssemblyReference.cache
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\obj\Debug\08 - DataAccessInMVCUsingEntityFramework.csproj.CoreCompileInputs.cache
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\obj\Debug\08 - DataAccessInMVCUsingEntityFramework.csproj.CopyComplete
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\obj\Debug\08 - DataAccessInMVCUsingEntityFramework.dll
+D:\MVC-Samples-Jquery\08 - DataAccessInMVCUsingEntityFramework\08 - DataAccessInMVCUsingEntityFramework\obj\Debug\08 - DataAccessInMVCUsingEntityFramework.pdb
