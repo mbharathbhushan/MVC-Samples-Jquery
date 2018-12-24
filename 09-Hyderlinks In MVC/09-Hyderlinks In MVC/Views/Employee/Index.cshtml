@@ -1,0 +1,17 @@
+﻿@model IEnumerable<_09_Hyderlinks_In_MVC.Models.Employee>
+
+@{
+    ViewBag.Title = "Employees List";
+}
+
+<h2>Employees List</h2>
+
+<ul>
+    @foreach (var employee in Model)
+    {
+    <li>
+        @Html.ActionLink(employee.Name, "Details", new { id = employee.EmployeeId })
+    </li>
+    }
+</ul>
+
